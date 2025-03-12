@@ -32,12 +32,23 @@ a:hover {
 }
 
 .quote {
-    font-size: large;
     line-height: 24px;;
+}
+
+blockquote{
+    font-size: small;
 }
 
 .container-quote{
     border-left: 4px solid #EEEEEE;
     margin-top: 12px;
     margin-bottom: 12px;
+}
+
+#title {
+    color: red ;
+}
+
+.title {
+    color: blue;
 }
